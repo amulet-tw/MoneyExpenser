@@ -1,0 +1,12 @@
+AppName: Money Expenser
+Version: 2.4
+   Date: Aug 17, 2009
+ Author: Amulet
+         http://ogc-daily.blogspot.com
+
+A personal expense recorder.
+
+
+Dependency: PyQt 4.4+, with QSQLite3 plugin enabled
+
+Run "MoneyExpenser.pyw"

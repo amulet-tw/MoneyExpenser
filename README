@@ -1,11 +1,11 @@
 AppName: Money Expenser
 Version: 2.5
    Date: Aug 17, 2009
- Author: Amulet
+ Author: Randal
 
 A personal expense recorder.
 See "screenshot1.jpg" and "screenshot2.jpg".
 
-Dependencies: Python 2.6+, PyQt 4.4+ with QSQLite3 plugin enabled
+Tested Dependencies: Python 2.6 + PyQt 4.4 (with QSQLite3 plugin enabled)
 
 Usage: python MoneyExpenser.pyw
